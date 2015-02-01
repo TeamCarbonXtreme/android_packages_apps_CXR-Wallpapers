@@ -8,7 +8,7 @@
 -->
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.Carbonx.CxrWallpapers"
+    package="com.cxr.wallpapers"
     android:installLocation="auto" >
     
     <uses-permission android:name="android.permission.SET_WALLPAPER" />
